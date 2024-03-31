@@ -1,0 +1,11 @@
+Items: {
+	SparkblossomBeaconClone: {
+		DisplayName: Sparkblossom Beacon Clone
+		Tooltip: ""
+	}
+
+	SparkblossomBeaconProgression: {
+		DisplayName: Sparkblossom Beacon Progression
+		Tooltip: ""
+	}
+}

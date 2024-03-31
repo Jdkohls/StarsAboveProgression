@@ -1,0 +1,4 @@
+displayName = Stars Above Sparkblossom Progression
+modReferences = StarsAbove
+author = Zet
+version = 0.1
