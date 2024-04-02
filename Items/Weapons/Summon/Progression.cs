@@ -17,7 +17,7 @@ namespace StarsAboveProgression.Items.Weapons.Summon
 
         public override void SetDefaults(Item item)
         {if(item.type == real_id){
-                item.damage = 3;
+                item.damage = 4;
         }}
         
 
@@ -46,7 +46,7 @@ namespace StarsAboveProgression.Items.Weapons.Summon
                 (eye ? 0.2f : 0f) +
                 (evilboss ? 0.2f : 0f) +
                 (queenBee ? 0.36f : 0f) +
-                (skeletron ? 1.3f : 0f) +
+                (skeletron ? .5f : 0f) +
                 (hardmode ? 1.75f : 0f) +
                 (queenSlime ? 1.2f : 0f) +
                 (anyMech ? 1.23f : 0f) +
